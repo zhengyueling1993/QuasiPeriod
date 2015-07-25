@@ -1,2 +1,4 @@
 # QuasiPeriod
-The code for generate the QuasiPeriod of Crystal
+The code for design the quasiperiod that could generate two bandgaps
+
+Using C++
